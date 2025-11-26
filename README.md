@@ -1,6 +1,6 @@
 🎬 Movie Website
 =====================
-Film ve dizi içeriklerini sergilemek için tasarlanmış modern bir kullanıcı arayüzü projesi.
+Film ve dizi içeriklerini sergilemek için tasarlanmış modern bir kullanıcı arayüzü projesi. Netflix tarzı tasarımı ve dinamik hover efektleriyle interaktif bir deneyim sunar.
 
  📷 Ekran Görüntüsü 
 --------------------
