@@ -1,4 +1,4 @@
-🎬 Movie Streaming UI
+🎬 Movie Website
 =====================
 Film ve dizi içeriklerini sergilemek için tasarlanmış modern bir kullanıcı arayüzü projesi.
 
