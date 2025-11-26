@@ -1,8 +1,8 @@
-🎬 Movie Website
+#🎬 Movie Website
 
 Film ve dizi içeriklerini sergilemek için tasarlanmış modern bir kullanıcı arayüzü projesi. Netflix tarzı tasarımı ve dinamik hover efektleriyle interaktif bir deneyim sunar.
 
-🚀 Kullanılan Teknolojiler
+#🚀 Kullanılan Teknolojiler
 
 HTML5
 
@@ -12,7 +12,7 @@ Bootstrap Icons
 
 Google Fonts
 
-⭐ Özellikler
+#⭐ Özellikler
 
 Responsive navbar ve sabit sidebar tasarımı
 
